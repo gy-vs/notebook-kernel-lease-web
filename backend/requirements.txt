@@ -1,0 +1,5 @@
+jupyter_client>=8
+ipykernel>=6
+fastapi>=0.110
+uvicorn[standard]>=0.29
+aiosqlite>=0.20
