@@ -12,3 +12,7 @@ build/
 *.key
 *.p12
 .DS_Store
+
+# 运行期数据（SQLite journal/笔记库）与前端构建产物
+/data/
+/frontend_dist/
